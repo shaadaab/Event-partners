@@ -171,6 +171,7 @@ h3{
     display: flex;
     flex-direction: row;
     gap: 0px;
+    background-size: 80rem;
 }
 
 
