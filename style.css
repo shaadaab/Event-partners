@@ -454,5 +454,10 @@ h3{
         font-size: 1em;
     }
 
+    .logo{
+        justify-content: space-between;
+        
+    }
+
 
 }
