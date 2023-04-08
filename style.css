@@ -342,6 +342,15 @@ h3{
     footer{
         font-size: 1em;
     }
+
+    .logo{
+        justify-content: space-around;
+        padding: 0 5px;
+    }
+
+    .logo img{
+        width: 45px;
+    }
 }
 
 @media screen and (min-width: 641px) and (max-width: 1024px){
